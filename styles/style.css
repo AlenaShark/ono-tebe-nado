@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
-    padding: 90.5px 50px 92px 49px;
+    padding: 90.5px 50px 85px 49px;
     font-family: "Raleway", "Open Sans, sans-serif";
     font-size: 18px;
     font-weight: 400;
@@ -40,9 +40,6 @@
     justify-self: center;
     width: 140px;
     height: 105px;
-}
-
-.header__link-logo {
 }
 
 .address {
@@ -285,7 +282,7 @@
   .about__title {
     display: flex;
     flex-direction: column;
-    align-items: flex-start; 
+    align-items: flex-start;
     gap: 98px;
     width: 100%;
   }
